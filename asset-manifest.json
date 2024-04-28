@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/zlcodecamp2024/static/js/main.570cee5d.js",
+    "main.js": "/zlcodecamp2024/static/js/main.0647c1c0.js",
     "index.html": "/zlcodecamp2024/index.html",
-    "main.570cee5d.js.map": "/zlcodecamp2024/static/js/main.570cee5d.js.map"
+    "main.0647c1c0.js.map": "/zlcodecamp2024/static/js/main.0647c1c0.js.map"
   },
   "entrypoints": [
-    "static/js/main.570cee5d.js"
+    "static/js/main.0647c1c0.js"
   ]
 }
