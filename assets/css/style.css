@@ -2699,3 +2699,9 @@ textarea.form-control.textarea-box {
 html {
     scroll-behavior: smooth;
 }
+
+.avatar-image {
+    width: 200px;
+    height: 200px; 
+    object-fit: cover;
+}
